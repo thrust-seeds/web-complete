@@ -9,7 +9,7 @@ Com o Thrust instalado, basta digitar o comando abaixo para inicializar um novo 
 thrust init web-complete < diretorio >
 ```
 
-Para iniciar subir a aplicação, basta se posicionar, via linha de comando, no diretório onde o projeto foi inicializado e digitar:
+Para iniciar a aplicação, basta se posicionar, via linha de comando, no diretório onde o projeto foi inicializado e digitar:
 
 ```
 thrust startup.js
