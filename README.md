@@ -3,10 +3,10 @@ Thrust seed  - Web Complete
 
 Template de projeto Thrust para web completo, com servidor web, roteamento, acesso a arquivo e banco de dados Postgres.
 
-Com o Thrust instalado, basta digitar o comando abaixo para inicializar um novo projeto utilizando esse template, substituindo <diretorio> pelo caminho onde deseja inicializar o projeto:
+Com o Thrust instalado, basta digitar o comando abaixo para inicializar um novo projeto utilizando esse template, substituindo "< diretorio >" pelo caminho onde deseja inicializar o projeto:
 
 ```
-thrust init web-complete <diretorio>
+thrust init web-complete < diretorio >
 ```
 
 Para iniciar subir a aplicação, basta se posicionar, via linha de comando, no diretório onde o projeto foi inicializado e digitar:
