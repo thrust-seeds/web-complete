@@ -2,6 +2,6 @@
   "name": "thrust-seed-web-complete",
   "version": "1.0",
   "author": "Softbox - Soluções Inteligentes em TI",
-  "description": "Template de projeto Thrust para web complete, com servidor web, roteamento, acesso a arquivo e banco de dados Postgres.",
+  "description": "Template de projeto Thrust para web completo, com servidor web, roteamento, acesso a arquivo e banco de dados Postgres.",
   "dependencies": ["thrust-bitcodes/http"]
  }
