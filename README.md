@@ -6,7 +6,7 @@ Template de projeto Thrust para web completo, com servidor web, roteamento, aces
 Com o Thrust instalado, basta digitar o comando abaixo para inicializar um novo projeto utilizando esse template, substituindo "< diretorio >" pelo caminho onde deseja inicializar o projeto:
 
 ```
-thrust -t init web-complete < diretorio >
+thrust init -t web-complete < diretorio >
 ```
 
 Para iniciar a aplicação, basta se posicionar, via linha de comando, no diretório onde o projeto foi inicializado e digitar:
