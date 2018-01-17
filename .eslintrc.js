@@ -14,10 +14,14 @@ module.exports = {
   },
 
   "globals": {
+    "Java": true,
     "document": false,
     "navigator": false,
     "window": false,
     "print": true,
+    "show": true,
+    "getConfig": true,
+    "getBitcodeConfig": true,
     "console": true
   },
 

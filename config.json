@@ -1,4 +1,10 @@
 {
   "transpileScripts": false,
-  "loadToGlobal": []
+  "loadToGlobal": [],
+  "database": {
+    "driverClassName": "",
+    "urlConnection": "",
+    "userName": "",
+    "password": ""
+  }
 }

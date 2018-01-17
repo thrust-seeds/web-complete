@@ -1,3 +1,4 @@
-var server = require('http')
+let server = require('http')
+let router = require('router')
 
-server.createServer(8778)
+server.createServer(8778, router)
