@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES5"
+  },
+  "typeAcquisition": {
+    "include": [
+      "thrust"
+    ]
+  },
+  "include": [
+    "./**/*"
+  ]
+}
