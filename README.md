@@ -15,7 +15,7 @@ Para iniciar a aplicação, basta se posicionar, via linha de comando, no diret�
 thrust startup.js
 ```
 
-Pronto! Neste momento, você já possui um servidor de aplicação com um endpoint disponibilizado. Para testar, basta acessar, através do browser: http://localhost:8080/app/test/hello
+Pronto! Neste momento, você já possui um servidor de aplicação com um endpoint disponibilizado. Para testar, basta acessar, através do browser: http://localhost:8778/app/test/hello
 
 Recomendamos o [Visual Studio Code](https://code.visualstudio.com/) para desenvolver projetos utilizando o Thrust.
 
