@@ -1,7 +1,7 @@
-let dbm = require('database')
+var dbm = require('database')
 
-let dbConfig = getBitcodeConfig('database')()
-let db = dbm.createDbInstance(dbConfig)
+var dbConfig = getBitcodeConfig('database')()
+var db = dbm.createDbInstance(dbConfig)
 
 function hello (params, request, response) {
   response.write('Hello, you sent me the following params: ' + JSON.stringify(params))

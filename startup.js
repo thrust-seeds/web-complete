@@ -1,4 +1,5 @@
-let server = require('http')
-let router = require('router')
+var server = require('http')
+var router = require('router')
 
-server.createServer(8778, router)
+var port = env('THRUST_PORT', 8778);
+server.createServer(port, router)
